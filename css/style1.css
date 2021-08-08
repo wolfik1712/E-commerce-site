@@ -1,0 +1,255 @@
+@font-face {
+	font-family: 'Objective';
+	src: url('../fonts');
+	src: local('../fonts'), url('fonts/Objective-Regular.woff') format('woff'), url('fonts/Objective-Regular.ttf') format('truetype'), url('fonts/Objective-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-weight: bold;
+}
+.site {
+position: relative;
+background: #FFFFFF;
+}
+.page1 {
+position: absolute;
+width: 1440px;
+height: 768px;
+left: 0px;
+top: 0px;
+
+}
+.mockupall {
+position: absolute;
+width: 380px;
+height: 60px;
+left: 245px;
+top: 557px;
+}
+.mockup {
+	position: absolute;
+width: 240px;
+height: 458.39px;
+left: 913px;
+top: 232px;
+background: url(./../img/mockup1 2.png);
+}
+.mockup2 {
+	position: absolute;
+width: 280px;
+height: 534.78px;
+left: 1074px;
+top: 158px;
+background: url(./../img/mockup1 3.png);
+}
+.appbestall {
+position: absolute;
+width: 636px;
+height: 264px;
+left: 245px;
+top: 233px;
+}
+.appBest {
+position: absolute;
+width: 595px;
+height: 140px;
+left: 245px;
+top: 233px;
+font-family: Objective;
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 70px;
+/* or 140% */
+letter-spacing: 0.02em;
+color: #260041;
+}
+.lorem {
+	position: absolute;
+width: 636px;
+height: 110px;
+left: 245px;
+top: 387px;
+font-family: Objective;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 36px;
+color: #260041;
+}
+
+.buttonsgplay {
+position: absolute;
+width: 180px;
+height: 60px;
+left: 245px;
+top: 557px;
+}
+.nav {
+position: absolute;
+width: 312px;
+height: 19px;
+left: 883px;
+top: 59px;
+}
+.header {
+position: absolute;
+width: 950px;
+height: 42px;
+left: 245px;
+top: 45px;
+
+}
+.logo {
+position: absolute;
+width: 128px;
+height: 42px;
+left: 245px;
+top: 45px;
+font-family: Objective;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 42px;
+/* identical to box height */
+color: #4A99D3;
+}
+.homes {
+position: absolute;
+width: 54px;
+height: 19px;
+left: 883px;
+top: 59px;
+font-family: Objective;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 19px;
+/* identical to box height */
+color: #4A99D3;
+}
+.about {
+position: absolute;
+width: 55px;
+height: 19px;
+left: 987px;
+top: 59px;
+font-family: Objective;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 19px;
+}
+.cuse {
+position: absolute;
+width: 103px;
+height: 19px;
+left: 1092px;
+top: 59px;
+font-family: Objective;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 19px;
+}
+.gplays1 {
+	position: absolute;
+left: 26.95%;
+right: 0.35%;
+top: 39.18%;
+bottom: 0.2%;
+background: #FFFFFF;}
+.gplays2 {
+	position: absolute;
+left: 27.22%;
+right: 39.43%;
+top: 1.89%;
+bottom: 75.3%;
+background: #FFFFFF;
+border: 0.560673px solid #FFFFFF;
+}
+.gplays3 {
+	position: absolute;
+left: 0.62%;
+right: 85.01%;
+top: 3.34%;
+bottom: 50.62%;
+background: linear-gradient(37.31deg, #32A072 -80.09%, #2CA772 -75.11%, #4BBA71 -45.93%, #5EBD6B -23.15%, #66BE69 -8.91%);}
+.gplays4 {
+	position: absolute;
+left: 0.71%;
+right: 85.01%;
+top: 49.37%;
+bottom: 4.23%;
+background: linear-gradient(322.28deg, #EF4149 58.41%, #C31E63 217.19%);}
+.gplays5 {
+	position: absolute;
+left: 11.4%;
+right: 79.92%;
+top: 33.77%;
+bottom: 35.39%;
+background: linear-gradient(270deg, #FEE000 -6.56%, #FEBD11 91.18%, #FAA51A 179.39%, #F99B1C 231.84%);}
+.gplays6 {
+	position: absolute;
+left: 0.37%;
+right: 88.6%;
+top: 4.75%;
+bottom: 5.28%;
+background: linear-gradient(297.26deg, #4998D3 8.36%, #4A99D3 9.45%, #42BAEB 36.61%, #41C7F2 63.77%, #56C9E9 90.92%, #5BCAE8 116.99%);}
+.glay7 {
+position: absolute;
+left: 26.95%;
+right: 0.35%;
+top: 39.18%;
+bottom: 0.2%;
+background: #FFFFFF;
+}
+.gplay8 {
+	position: absolute;
+left: 27.22%;
+right: 39.43%;
+top: 1.89%;
+bottom: 75.3%;
+
+background: #FFFFFF;
+border: 0.560673px solid #FFFFFF;
+}
+.gplaytext {
+	position: absolute;
+width: 135.36px;
+height: 32.06px;
+left: 267px;
+top: 571px;
+}
+.gplay {
+position: absolute;
+left: 0.37%;
+right: 0.35%;
+top: 1.89%;
+bottom: 0.2%;
+}
+.appstore {
+	position: absolute;
+width: 180px;
+height: 60px;
+left: 445px;
+top: 557px;
+background: #4A99D3;
+border-radius: 5px;
+}
+.appstore1 {
+height: 33.280635833740234px;
+width: 126.39204406738281px;
+left: 0.53515625px;
+top: 0.6746826171875px;
+border-radius: 0px;
+}
+.buttonsappstore {
+position: absolute;
+width: 180px;
+height: 60px;
+left: 445px;
+top: 557px;
+
+background: #4A99D3;
+border-radius: 5px;
+}
